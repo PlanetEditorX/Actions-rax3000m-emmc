@@ -1,3 +1,5 @@
+# CMCC RAX3000M EMMC 的Openwrt编译次仓库
+## 👉[主仓库](https://github.com/PlanetEditorX/Actions-OpenWrt-RAX3000M-EMMC)
 **闭源驱动** | [开源驱动](README_mainline.md)
 
 # Actions-rax3000m-emmc
